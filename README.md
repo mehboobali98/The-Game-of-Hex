@@ -89,3 +89,5 @@ The AI moves are evaluated using the evaluation function in which different heur
 ┣ 📜AiHex.iml
 ┗ 📜README.md
 </pre>
+
+![made-with-java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
