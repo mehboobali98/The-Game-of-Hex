@@ -6,6 +6,7 @@ The AI moves are evaluated using the evaluation function in which different heur
 
 # Directory Structure
 
+<pre>
 📦The-Game-of-Hex
 ┣ 📂Documents
 ┃ ┗ 📜The Game of Hex.pdf
@@ -87,3 +88,4 @@ The AI moves are evaluated using the evaluation function in which different heur
 ┣ 📜.gitignore
 ┣ 📜AiHex.iml
 ┗ 📜README.md
+</pre>
